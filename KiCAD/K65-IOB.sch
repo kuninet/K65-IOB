@@ -1055,4 +1055,8 @@ NoConn ~ 2350 2550
 NoConn ~ 3450 2250
 NoConn ~ 3450 2350
 NoConn ~ 3450 2450
+Text Notes 6000 4250 0    50   ~ 0
+ACIA : $8020-8023
+Text Notes 9300 4350 0    50   ~ 0
+VIA : $8010-801F
 $EndSCHEMATC
