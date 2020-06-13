@@ -897,11 +897,11 @@ Wire Wire Line
 Connection ~ 4950 3350
 Wire Wire Line
 	4950 3350 5200 3350
-Text Label 2050 4900 0    50   ~ 0
+Text Label 2050 4800 0    50   ~ 0
 A13
 Wire Wire Line
 	2050 4900 2300 4900
-Text Label 2050 4800 0    50   ~ 0
+Text Label 2050 4900 0    50   ~ 0
 A14
 Wire Wire Line
 	2050 4800 2300 4800
