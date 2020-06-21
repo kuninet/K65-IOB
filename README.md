@@ -8,6 +8,9 @@
 ## 回路図
 ![回路図](image/K65-IOB.jpg)
 
+## パーツリスト
+- パーツリストは[こちら](doc/partslist.md)。
+
 ## git branchの説明
 - master
   - メインブランチ
