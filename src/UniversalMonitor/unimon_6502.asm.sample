@@ -1,0 +1,3 @@
+	IF	USE_DEV_W65C51
+	INCLUDE	"dev/dev_W65C51.asm"
+	ENDIF

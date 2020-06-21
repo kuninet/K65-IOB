@@ -1,0 +1,10 @@
+USE_DEV_W65C51 = 1
+	IF USE_DEV_W65C51
+	;;
+ACIADR:	EQU	$8020		; Data Register
+ACIASR:	EQU	$8021		; Status Register
+ACIACM:	EQU	$8022		; Command Register
+ACIACR:	EQU	$8023		; Control Register
+ACCR_V:	EQU	$1E		; Control: 8bit, 9600bps
+ACCM_V:	EQU	$0B		; Command: No-parity
+	ENDIF
